@@ -55,6 +55,7 @@ Please attempt to solve the problems described in the following `.py` files:
 - [Question 5](./src/q5.py)
 - [Question 6](./src/q6.py)
 - [Question 7](./src/q7.py)
+- [Question 8](./src/q8.py)
 
 Your code should be easily readable and well-documented with appropriate comments
 to explain how it works. 
